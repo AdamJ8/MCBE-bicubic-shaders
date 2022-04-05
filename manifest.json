@@ -2,24 +2,24 @@
     "format_version": 2,
     "metadata": {
         "authors": [
-            "sad"
+            "sad, AdamJ8"
         ],
-        "url": "https://github.com/Mcbamboo/bicubic-shaders-be",
+        "url": "https://github.com/AdamJ8/MCBE-bicubic-shaders",
         "license": "MIT License"
     },
     "header": {
         "name": "Bicubic shaders be 3.1 dev",
-        "description": "a shader for minecraft be",
-        "uuid": "a52ad973-b3c5-6edd-0f4c-13cc98df41cb",
-        "version": [0, 3, 1],
+        "description": "A shader for Minecraft Bedrock Edition",
+        "uuid": "08b5abeb-658e-4644-823d-c1bdab9a8daf",
+        "version": [0, 3, 2],
         "min_engine_version": [1, 14, 1]
     },
     "modules": [
         {
             "description": "a shader for minecraft be",
             "type": "resources",
-            "uuid": "ecfae6a2-2007-d116-5760-29667d615197",
-            "version": [0, 3, 1]
+            "uuid": "6456361d-aec2-481b-ae7b-30f8b299b7f9",
+            "version": [0, 3, 2]
         }
     ],
     "subpacks": [
